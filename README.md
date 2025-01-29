@@ -1,1 +1,1 @@
-"This is a repositiory created for learning"
+"This is a repository created for learning"
